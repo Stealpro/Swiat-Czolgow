@@ -26,7 +26,7 @@ public class Pocisk : MonoBehaviour
         Enemy enemy = other.gameObject.GetComponent<Enemy>();
         if (enemy !=null)
         {
-            enemy.TakeDamage(10);
+            enemy.TakeDamage(15);
         }
     }
 
