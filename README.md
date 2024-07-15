@@ -1,2 +1,2 @@
 # Swiat-Czolgow
-Moja pierwsza gra robiona na projekt na zaliczenie przedmiotu w Unity.
+Moja pierwsza gra robiona w Unity na zaliczenie przedmiotu.
